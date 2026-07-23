@@ -5,9 +5,14 @@
 
 # Output for IV profile processing.py
 1. individual IV curve
-2. Plot of IV curve with Standard deviation
+2. Plot of IV curve with Standard deviation or standard error of the mean.
 3. The Ion current rectification ratio
 4. The resistance in MOhm
+
+<img width="2100" height="2100" alt="2025_12_17_0055_figure" src="https://github.com/user-attachments/assets/3786d9c3-3839-4273-8049-f96712698a0d" />
+<img width="2100" height="2100" alt="Combined data for plot_IV_SD_error_png" src="https://github.com/user-attachments/assets/b9413db2-f344-4e06-a437-a296d02ad8e1" />
+
+
 
 # Input for Nanopore Diameter Calculation.py
 1. The calculation of pore diameter is based on Perry et al. (https://pubs.acs.org/doi/10.1021/acs.analchem.6b01095), with assumptions on cone (theta) angle, 
